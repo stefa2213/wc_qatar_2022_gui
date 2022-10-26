@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onedir --windowed --add-data "c:\users\stefan\appdata\local\programs\python\python310\lib\site-packages/customtkinter;customtkinter/" wc22_fend.py
